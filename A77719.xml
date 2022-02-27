@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Brunskell's case and proposals</title>
+            <author>Brunskell, Percivall, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77719</idno>
+            <idno type="STC">Wing B5236</idno>
+            <idno type="STC">ESTC R205837</idno>
+            <idno type="EEBO-CITATION">99896891</idno>
+            <idno type="PROQUEST">99896891</idno>
+            <idno type="VID">135392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2453:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Brunskell's case and proposals</title>
+                  <author>Brunskell, Percivall, 17th cent.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerns judicial and government abuses reported by Percivall Brunskell and his efforts to be rewarded with an office for his honesty. He published several items on this theme between 1683 and 1695.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Misconduct in office) --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  Officials and employees --  Salaries, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:135392:1" rendition="simple:additions"/>
+            <head>Mr. Brunskell's CASE AND PROPOSALS.</head>
+            <p>THAT the King may get and ſave above 400000 <hi>l. per Annum,</hi> by taking the firſt Fruits or Profits of Offices, and indear ma<g ref="char:EOLhyphen"/>ny: For moſt Offices may be executed by Deputy, as well as the <hi>Cuſtos Brevium</hi> Of<g ref="char:EOLhyphen"/>fice in the <hi>Common Pleas</hi> now is for 100 <hi>l. per Annum.</hi> And his Majeſty may (if the Office be 1500 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi>) allow an experienced Perſon 300 <hi>l.</hi> per Annum <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> executing it, and Penſions of 200 <hi>l. per Annum</hi> to Six Perſons more, and allow the Grantees one Moiety to live on, until his Majeſty is paid what he is pleaſed to take: So raiſe his Revenue, reward good Services, and free his Revenue from Penſions.</p>
+            <p>To make out this Propoſal, and that the King will not (by doing as propoſed) invade the Property of His Miniſters, Judges and Officers, but they His by obſtruct<g ref="char:EOLhyphen"/>ing it.</p>
+            <p>The Judges and Officers execute the Laws, and pro<g ref="char:EOLhyphen"/>ceed <hi>Ad ſummum jus</hi> againſt Perſons buying Eſtates, which others have no right to ſell: And although the ignorant Purchaſers were deceived by the Venders, or miſguided by their Counſel, yet are made to loſe their Purchaſe-money, yield Poſſeſſion, and refund mean Pro<g ref="char:EOLhyphen"/>fits to the real Owners: And the Judges and Officers wreſting or diſpenſing with Laws in their own Caſe, renders them partial; for they know that the Law is ve<g ref="char:EOLhyphen"/>ry tender of the Crown Rights; becauſe wronging the Crown, is pillaging the People. The Conſtruction which the Judges make of the Saving in the Statute of 5 <hi>&amp;</hi> 6 <hi>Edw.</hi> 6. <hi>cap.</hi> 16. for them to ſell is illegal, as re<g ref="char:EOLhyphen"/>ſolved by the Judges themſelves in like Caſes,<note n="*" place="margin">5 <hi>&amp;</hi> 6 <hi>Ed.</hi> 6. <hi>c.</hi> 16. <hi>Cok.</hi> Rep. <hi>Alton-woods</hi> Caſe <hi>Pl. Com.</hi> 561. <hi>Dyer</hi> 231.313. 1 <hi>Inſt.</hi> 381. 18 <hi>Ed.</hi> 3. Stat. 4. 20 <hi>Ed.</hi> 3 <hi>c.</hi> 1. 12 <hi>R.</hi> 2. <hi>c.</hi> 2.</note> becauſe it is repugnant to what the Act intended to remedy; nei<g ref="char:EOLhyphen"/>ther can they take Money for Offices, or Fees of Suitors, or New-years Gifts of Lawyers and Officers, without di<g ref="char:EOLhyphen"/>ſpenſing with their Oaths, and the Statutes of 18 <hi>Edw.</hi> 3. and 20 <hi>Edw</hi> 3 and 12 <hi>Rich.</hi> 2.<note n="†" place="margin">
+                  <hi>Pl. Com.</hi> 333, 334. <hi>Hob.</hi> Rep. 233, 234. <hi>Dyer</hi> 261. <hi>Davys</hi> Rep. 56. 1 <hi>H.</hi> 4. <hi>c.</hi> 6.</note> The Judges agree, where the King grants an Ancient Mannor <hi>cum pertinen',</hi> That Royalties ſhall not paſs without being named; yet they will have Inferiour Offices paſs to them by the Grant of the Office of Juſtice <hi>cum pertinen',</hi> or other General Words, without the leaſt mention of any Inferiour Of<g ref="char:EOLhyphen"/>fice by Name, againſt the expreſs Letter of the Statute of 1 <hi>Hen.</hi> 4. <hi>cap.</hi> 6. which provides, That where the Name or Value of any Office claimed is not mentioned, the Grants ſhall be void, and the Grantees puniſhed for deceit.</p>
+            <p>The Kings and Queens of <hi>England,</hi> by Virtue of their Original Right to the Adminiſtration and Offices inci<g ref="char:EOLhyphen"/>dent thereto, have at pleaſure, as they were reinformed of the Name and Value of Inferiour Offices, granted ſe<g ref="char:EOLhyphen"/>veral, ſome before,<note place="margin">5 <hi>&amp;</hi> 6 <hi>Ed.</hi> 6.</note> others ſince the Statute of 5 <hi>&amp;</hi> 6 <hi>Edw.</hi> 6. which Miniſters and Judges have diſpoſed of without intermiſſion ſome Hundred years before their Majeſties interpoſed; and Grantees enjoyed the ſame accordingly. As for inſtance; Chief Clerk and <hi>Cuſtos Brevium</hi> in the <hi>King's <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cuſtos Brevium,</hi> Clerk of the Treaſury, and Clerk of the <hi>Superſedeas</hi> in the <hi>Com<g ref="char:EOLhyphen"/>mon Pleas,</hi> Treaſurer, Remembrancer, and Clerk of E<g ref="char:EOLhyphen"/>ſtreats in the <hi>Exchequer,</hi> Prothonotary, Six Clerks and Curſiters, Incorporation and Regiſter in <hi>Chancery,</hi> Cof<g ref="char:EOLhyphen"/>ferer, and other Offices in the Houſhold; and ſuch In<g ref="char:EOLhyphen"/>terruption of their Miniſters and Judges Uſage amount to a Diſcontinuance of their Right, and a Continuance of the King's, <hi>Pari Ratione</hi> the King may diſpoſe of the other Offices, as he is not reſtrained by any Grant to his Miniſters, or the Saving aforeſaid. And the Statute of 5 <hi>&amp;</hi> 6 <hi>Edw.</hi> 6. provides,<note place="margin">
+                  <hi>5.</hi> &amp; <hi>6</hi> Ed. <hi>6.</hi> c. <hi>16.</hi> General words of an Act ſhall not debar the King of any Prero<g ref="char:EOLhyphen"/>gative, E<g ref="char:EOLhyphen"/>ſtate, Right, Title or In<g ref="char:EOLhyphen"/>tereſt, as ci<g ref="char:EOLhyphen"/>ted in <hi>Mag. Coll:</hi> Caſe, Co. <hi>11. Rep.</hi> The King cannot di<g ref="char:EOLhyphen"/>ſpence with the Stat. of <hi>5</hi> &amp; <hi>6 Ed. 6.</hi> as cited in <hi>Co. 1 Inſt. 120.</hi>
+               </note> That ſuch as be Seized of Offices in Fee, may Sell, <hi>Ergo</hi> the King, Seized of all Hereditary Rights belonging to the Imperial Crown and Dignity, may make Advantage thereof, but Judges can<g ref="char:EOLhyphen"/>not; and the Saving implies no more, but that the Judges may ſupply Vacancies, upon Death or Removal, in the King's Abſence, to avoid a Failure in the Exe<g ref="char:EOLhyphen"/>cution of the Law, until the King think fit to make his own Officers.</p>
+            <p>
+               <hi>Object.</hi> Should the King diſpoſe of all the Officers, as pro<g ref="char:EOLhyphen"/>poſed, ſome Miniſters will ſtill for Money find ways to put Good Men by, or out of Offices, and have their own Creatures placed therein, and alledge, That it is his Ma<g ref="char:EOLhyphen"/>jeſties pleaſure to have it ſo, when his Majeſty knows nothing of the Matter; ſo their Majeſties and their Government will be more ſcandalized than ever, where<g ref="char:EOLhyphen"/>as Miniſters now (and not their Majeſties) are reflected on for ſuch doings; neither can the King know ſo well as his Miniſters do, who are fit for Offices.</p>
+            <p>
+               <hi>Anſw.</hi> Were ſuch as have been put by or out of Offices, without juſt Cauſe reſtored, upon paying Firſt Fruits of Profits, as propoſed; and were the Names of ſuch as have done, or ſhall for the ſuture, do the King and Nation good Service, from time to time ſet down in a Roll, or Book of Regiſtry,<note place="margin">Cok. <hi>4</hi> Inſt. <hi>Title</hi> Privy Council, <hi>36</hi> Articles.</note> to be kept for that pur<g ref="char:EOLhyphen"/>poſe by one of the Secretaries of State, or other Mini<g ref="char:EOLhyphen"/>ſters, purſuant to ſeveral Ordinances made by former Kings in Parliament; and were a Jury of Officers im<g ref="char:EOLhyphen"/>pannelled every Year, to preſent the Names of ſuch upon Oath as are out of Office, orderly as they are
+<pb n="2" facs="tcp:135392:2"/>qualified by Birth, Age, or Education; and were Offi<g ref="char:EOLhyphen"/>ces diſpoſed of to ſuch to be executed by ſufficient De<g ref="char:EOLhyphen"/>puties, then in Caſe the Office firſt hapning be too mean for the firſt perſon in the Roll, Regiſtry, or Preſent<g ref="char:EOLhyphen"/>ment, he may, if he think fit, enjoy it till a better fall.</p>
+            <p>The Law is as ſtrict againſt Simony as can be made againſt ſelling Temporal Offices; <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> and the King hath the full firſt years Profits ſetled, of Spiritual Benefices, as propoſed to be ſetled of Temporal Offices; yet do not the Fathers, or other Relations of the Parſons, by gi<g ref="char:EOLhyphen"/>ving great Sums of Money to the King's Miniſters; or Lay-men who have right of Preſentation, procure Bene<g ref="char:EOLhyphen"/>fices, at this day, unknown to Parſons, by purchaſe, ſo pay younger Childrens Portions or Legacies, and the Firſt Fruits to the King amount to a very ſmall matter yearly.</p>
+            <p>It's true, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> the Law againſt Simony is as ſtrict as it can be penn'd, and the full firſt Years Profits of Benefices in the King's Gift, are as fully ſetled and given to the King as may be, yet what ſignifies a ſtrict Law, if the Method or Manner of performing it be not ſo firmly preſcribed, That the Perſon or Perſons, directly or indi<g ref="char:EOLhyphen"/>rectly violating it, may not be eaſily detected. Now were it ſo ſettled, That Preſentments were made by the two Univerſities yearly, of the Names of Parſons qualified <hi>pro Cura Animarum,</hi> according to their Merit and Senio<g ref="char:EOLhyphen"/>rities of ſtanding; and were ſuch Preſentments returned to, and regiſtred in the <hi>Petty-Bagg-Office</hi> in <hi>Chancery;</hi> and were Parſons preferred by the King, and others, ac<g ref="char:EOLhyphen"/>cordingly as they are orderly ſet down in ſuch Preſent<g ref="char:EOLhyphen"/>ments, and promoted ligher as better Benefices fall, in Caſe their Demeanours, after ſuch Preſentment made, render them qualified or ſuch further Promotion. And were the King, and ſuch as have right of Preſentation, to take the next Parſon, as he ſtands orderly in the firſt preſentment, it would nake the Law effectual for re<g ref="char:EOLhyphen"/>medy of the Evils thee by intended to be redreſſed; and were every Parſon Obliged upon Oath to Accompt for, and pay the Kings real Duty out of, and according to what Rents, Iſſues, and Profits he actually hath and receiveth, Firſt Fruits would be a great Revenue to the Crown.</p>
+            <p>What difference is there between the King's diſpoſing of Offices,<note place="margin">Quaere.</note> as propoſed, and his Miniſters ſelling?</p>
+            <p>The Officers made by the King, <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> as propoſed, run no hazard in Caſe of Death or Removal, and Men of Me<g ref="char:EOLhyphen"/>rit, without Money, will be ſure of Imployments, where<g ref="char:EOLhyphen"/>by the Government will flouriſh.</p>
+            <p>But theſe Evils attend Great Miniſters Selling and Diſpoſing of Offices.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Officers give ready Money, who often ma<g ref="char:EOLhyphen"/>king too much haſte to re-imburſe themſelves, ruin di<g ref="char:EOLhyphen"/>vers Families:</item>
+               <item>
+                  <hi>Secondly,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Perſons who have no Qualifications but Money, will give moſt for Offices of Profit. And ſuch as have ill Deſigns will do the like for the Places of greateſt Truſt, to diſcover Secrets and betray Truſts: So by the Ignorance of one, and Diſhoneſty of the o<g ref="char:EOLhyphen"/>ther, the Government is ruined.</item>
+               <item>
+                  <hi>Thirdly,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> While Miniſters have the Diſpoſition of Of<g ref="char:EOLhyphen"/>fices, they will prefer Relations, or ſuch as gratifie them in what ſuits moſt with their Temper, who cannot at<g ref="char:EOLhyphen"/>tribute their Indearment to the Kings Bounty, or any Me<g ref="char:EOLhyphen"/>rit but their Money, or great Mens favours.</item>
+               <item>
+                  <hi>Fourthly,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> All or moſt Officers undue practices here<g ref="char:EOLhyphen"/>after ſet down by way of Abuſes, and the Judges hin<g ref="char:EOLhyphen"/>dring the ſame to be redreſſed, as is propoſed under e<g ref="char:EOLhyphen"/>very Head, or otherwiſe in the late Reigns, did proceed from Buying and Selling Offices, or their diſpoſing there<g ref="char:EOLhyphen"/>of to Men of no Merit, againſt the Laws of the Land.</item>
+            </list>
+            <div type="part">
+               <head>Abuſes diſcovered to R. <hi>Charles</hi> the Second, which ſhew how the King is wronged, and Subjects oppreſſed by the Miſmanagement of His Ancient Caſual Revenue.</head>
+               <p>THat Officers take their own and Judges Fees upon ſigning Proceedings whereon the King's Duty ariſe,<note place="margin">
+                     <hi>1</hi> Abuſe.</note> and leave Attorneys to Record them, when and as they pleaſe, whereby the King often loſeth his Duties, and ma<g ref="char:EOLhyphen"/>ny Subjects and their Families have been ruined by loſs of their Judgments, or forced to pay for Poſt-Rolls, which are very chargeable.</p>
+               <p>That Proceſs be not ſigned or ſuffered to iſſue out,<note place="margin">Remedy.</note> till an <hi>Incipitur</hi> thereof, or the Proceſs at large be duly Recorded.</p>
+               <p>Officers Out-law many for the King's Duty, called,<note place="margin">
+                     <hi>2</hi> Abuſe.</note> 
+                  <hi>Capias per fine;</hi> which in many Caſes is but 6 <hi>s.</hi> 8 <hi>d.</hi> whereby they get, at leaſt 10 <hi>l.</hi> in the <hi>King's Benth,</hi> and 3 or 4 <hi>l.</hi> in the <hi>common-Pleas;</hi> and render no Account into the Exchecquer, of the Duties received and taken for the King.</p>
+               <p>That as Officers added their own Profit called <hi>Damage-clear,</hi>
+                  <note place="margin">Remedy.</note> to Suitors Coſts, becauſe the Statute 23 <hi>Hen.</hi> 8. <hi>cap.</hi> 15. impowreth Coſts to be taxed diſcretionally; ſo the King's Fines may be added to Suitors Coſts, and Un<g ref="char:EOLhyphen"/>der-Sheriffs upon levying thereof, may be made to ac<g ref="char:EOLhyphen"/>compt and pay the King's ſhare, as they did the Officers Damage-clear.</p>
+               <p>That Officers for Eribes ſpare Jurors,<note place="margin">
+                     <hi>3</hi> Abuſe.</note> whereby the principal Pannels are ſupplied with By-ſtanders, too often attending to ſerve the baſe Ends and Deſigns of Litigious Suitors: And Freeholders now dance Attendance upon old Cauſes; which is very grievous, if they live remote from Aſſizes or Seſſions.</p>
+               <p>That Officers ſpare not any Jurors,<note place="margin">Remedy.</note> without the Judges Orders recorded; and that the Freeholders may ſerve in <gap reason="illegible: faint" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s and not attend old Cauſes, unleſs it be where a Special Jury is ſetled by Order of Court.</p>
+               <p>The King is wrong'd of great Sums of Money yearly,<note place="margin">
+                     <hi>4</hi> Abuſe.</note> upon Actions and Informations, <hi>Qui tan &amp; per Dom. Rege,</hi> by private Agreements between Attorneys and their Clients, and ſmothering Proceedings.</p>
+               <p>That the Statute 18 <hi>Eliz. cap.</hi> 5. be obſerved.</p>
+               <p>Many Fines and Amercements accruing to the King by Officers Contempt, Non-execution,<note place="margin">Remedy. 5 Abuſe.</note> or Miſ-execution of Proceſs, Rules, or Orders, and for other Offences by them committed, and never recorded, whereby Suits are retar<g ref="char:EOLhyphen"/>ded, and Proceſs multiplied, to the great increaſe of Offi<g ref="char:EOLhyphen"/>cers Profits, and intolerable trouble and charge of the Par<g ref="char:EOLhyphen"/>ty grieved; who by that means, often expend more than the value of the Thing in ſuit.</p>
+               <p>That every Contempt,<note place="margin">Remedy.</note> or other Offence committed, may be recorded without delay, and the Officer, or Attor<g ref="char:EOLhyphen"/>ney offending expelled the Court, if he does not pay the Fine, or Amercement into the Exchecquer, at a day to be aſſigned by the Court, wherein the Offence is committed.</p>
+               <p>That Under-Sheriffs for lucre, aſſign over Defendants Bail Bonds to the Plantiff to ſue,<note place="margin">
+                     <hi>6</hi> Abuſe.</note> which by the Sta<g ref="char:EOLhyphen"/>tute 22 <hi>Hen.</hi> 6. <hi>cap.</hi> 10. are entred into only to indempni<g ref="char:EOLhyphen"/>fie Sheriffs from the King's Fines, <hi>Quia non habuerunt Cor<g ref="char:EOLhyphen"/>pora:</hi> and the Plantiffs are permitted to ſue the ſame in the Sheriff's Name, before the Sheriffs are damnified; and the Defendants having only <hi>Comperuit ad diem,</hi> to plead thereto, are forced to comply with their Adverſaries vex<g ref="char:EOLhyphen"/>atious Demands; eſpecially when the Original Actions, by contrivance between Attorneys and Clients, are laid ſo litigiouſly high, that Defendants living remote from <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> cannot find Bail; and the Officer, and Under-Sheriff, by Combination, often deceives the King of his Fines, or Amercement.</p>
+               <p>That Under-Sheriffs may make no other uſe of the De<g ref="char:EOLhyphen"/>fendants Bail-bond,<note place="margin">Remedy.</note> than to indempnifie themſelves from the King's Fines, for the Defendant's Non-appearance; and that ſuch Bonds be delivered up, and cancelled, upon the Defendant's paying the Fine, and the Damage which the Sheriff's may reaſonably ſuſtain upon that account. And that Plantiff's making great Demands, may, at
+<pb n="3" facs="tcp:135392:2"/>the Defendant's Requeſt, be compelled to give the Court ſatisfaction of the reality of their Cauſe of Action: That Plantiffs, in Caſe Vexation appear, may be fined, <hi>pro fal<g ref="char:EOLhyphen"/>ſo clamore,</hi> and Defendants admitted to reaſonable Bail, as they ought to be; and that the ſaid Fines may be duly Eſtreated and Recorded, as they ought to be.</p>
+               <p>That Judges and Officers cannot legally alter the Origi<g ref="char:EOLhyphen"/>nal Proceſs of Courts,<note place="margin">
+                     <hi>7</hi> Abuſe.</note> without Authority of Parliament, as reſolved: <hi>Cooke</hi>'s <hi>Inſt. part</hi> 1. <hi>ſect.</hi> 101. <hi>Bracton, l.</hi> 5. <hi>fol</hi> 413. <hi>Lritton</hi> 122. 227. <hi>Fleta, lib.</hi> 2. Yet the Judges have of late Years made great Alterations, by <hi>Ac Etiam Bille,</hi> caſual Ejectors, and the like. And one Court in<g ref="char:EOLhyphen"/>terferes with another in buſineſs, againſt expreſs Acts of Parliament, 9 <hi>Hen.</hi> 3. <hi>cap.</hi> 11. 10 <hi>Edw.</hi> 1. 28 <hi>Edw.</hi> 1. <hi>cap.</hi> 4. As for inſtance: The Upper Bench is appropria<g ref="char:EOLhyphen"/>ted to Matters, <hi>Quare Vi &amp; Armis;</hi> the <hi>Common Pleas</hi> to the Subjects buſineſs; and the <hi>Ex hecquer</hi> to things purely relating to the Revenue.</p>
+               <p>If the Courts be allowed to proceed in the Method they are now in,<note place="margin">Propoſal.</note> it may be reaſonable, that ſome proviſion be made, that the King may have ſuch Duties as he ever had upon the <hi>Common Pleas</hi> Proceedings.</p>
+               <p>Moſt Juſtices in <hi>Eyre,</hi>
+                  <note place="margin">
+                     <hi>8</hi> Abuſe.</note> Commiſſioners of Sewers, Stew<g ref="char:EOLhyphen"/>ards, and Sheriffs in Turns and Leets, and Clerks of Mar<g ref="char:EOLhyphen"/>kets, Eſtreat not their Fines and Amerciaments.</p>
+               <p>That the Fines and Amerciaments may be Eſtreated and Certified into the Exchecquer,<note place="margin">Remedy.</note> as the Statutes 51 <hi>Hen.</hi> 3. 14 <hi>Rio.</hi> 2. <hi>cap.</hi> 11. 7 <hi>H<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 4. <hi>cap.</hi> 3, &amp; 11 <hi>Hen.</hi> 7. <hi>cap.</hi> 15. <hi>direct.</hi> And that Bayliffs and Stewards do all things required of Sheriffs, as the 27 <hi>Hen.</hi> 8. <hi>cap.</hi> 24. directs.</p>
+               <p>Under-Sheriffs take their Bayliffs Returns,<note place="margin">
+                     <hi>9</hi> Abuſe.</note> 
+                  <hi>De bene eſſe,</hi> who place many Fines and Forfeitures in Liberties and Franchiſes, which are not; and the King not knowing what are his, and the Lords of ſuch Liberties having no Right thereto, the Officers pocket them. Alſo, Under-Sheriffs often charge the King with Juſtices of Peace Wa<g ref="char:EOLhyphen"/>ges, when they attend not at Aſſizes and Seſſions. And Sheriffs and Bayliffs oppreſs the People, by reaſon Sheriffs let our their Balywicks to Farm, at dear Rates, contrary to the Statute 23 <hi>Hen.</hi> 6. <hi>cap.</hi> 10.</p>
+               <p>That exact Rolls of Liberties be made,<note place="margin">Remedy.</note> as the Statute 13 <hi>Edw.</hi> 1. <hi>cap.</hi> 39. directeth. And that the Statutes, 7 <hi>Hen.</hi> 4. <hi>cap.</hi> 3. 6 <hi>Edw.</hi> 1. <hi>cap.</hi> 14. 10 <hi>Edw.</hi> 1 Stat. <hi>Rut<g ref="char:EOLhyphen"/>land.</hi> 27 <hi>Edw.</hi> 1. <hi>cap.</hi> 2. be duly put in execution; and that Juſtices of Peace's Wages may be paid and allowed, as the Statute 14 <hi>Ric.</hi> 2. <hi>cap.</hi> 11. directeth, and not o<g ref="char:EOLhyphen"/>therwiſe. And that Under-Sheriffs may receive all their Bayliffs Returns and Accompts duly atteſted upon Oath, before fit Perſons appointed to take Affidavits in the reſpe<g ref="char:EOLhyphen"/>ctive Counties, and produce the ſame ſo atteſted, to ac<g ref="char:EOLhyphen"/>count by, in the Exchecquer; and that the Sature 23 <hi>H.</hi> 6. be put in execution.</p>
+               <p>That many Perſons guilty of great Offences,<note place="margin">
+                     <hi>10</hi> Abuſe.</note> often for<g ref="char:EOLhyphen"/>feit their Recognizances, rather than ſtand Tryal; by rea<g ref="char:EOLhyphen"/>ſon Officers intruſted with the Execution, which is the Life of the Law, for Bribes either ſmother the Recogni<g ref="char:EOLhyphen"/>zances, or diſcharge them upon wrong Suggeſtions, and eaſie Compoſitions to the King, and make ſuch as by in<g ref="char:EOLhyphen"/>advertency, and not out of any ill deſign, unhappily incur Penalties, often paying great Sums of Money for their <hi>Quietus,</hi> and Diſcharges; and exact what they can get of the poorer ſort, to the ruine of them and their Fami<g ref="char:EOLhyphen"/>lies.</p>
+               <p>That the Clerk of Aſſizes,<note place="margin">Remedy.</note> Clerks of the Peace, and all Officers of the Courts of Juſtice, to whom it belongs to Record Eſtreats, and certifie any Fines, Forfeitures, and Compoſitions into the Exchecquer, may duly make up their Eſtreats, and ſet down every Fine, Forfeiture, and Compoſition in particular; and the Affidavits, and Proofs, or other matter, upon which every Compoſition or Diſ<g ref="char:EOLhyphen"/>charge is grounded: alſo certifie upon every Fine or For<g ref="char:EOLhyphen"/>feiture not diſcharged, how the Perſon, and his Offence doth truly appear to be; that the Juſtices who are to approve of, and ſign all Eſtreats, may correct what they ſee amiſs; and the Officers may deliver the ſame ſo certi<g ref="char:EOLhyphen"/>fied and atteſted upon Oath, that they contain all which came to their knowledge, without Imbezelment of any.</p>
+               <p>The King's Duty of <hi>per</hi> Fine,<note place="margin">
+                     <hi>11</hi> Abuſe.</note> upon Alienations, is 10 <hi>l.</hi> in all Caſes for every 100 <hi>l. per Annum,</hi> contained in Writs of Covenant and Entry, and the Commiſſioners make Rent, Charges, and Annuities for Life, pay accordingly; yet make Eſtates in Fee ſome times, one half of the full Duty; others not an Eighth, Tenth, Twelfth, or Six<g ref="char:EOLhyphen"/>teenth part, where the value of Eſtates, and occaſion of levying or ſuffering Fines and Recoveries differ not, as the Commiſſioners and Attorneys contrive the matter; And by reaſon ſome Commiſſioners are apt to rate and compound higher than others, moſt cunning Attorneys and Sollicitors go to him will rate loweſt, and certifie them, Affirmed to be as they make them; and in <hi>Wales</hi> the Farmers ſcrew Fines very high.</p>
+               <p>That the Owners of the Eſtates contained in Writs of Covenant and Entry,<note place="margin">Remedy.</note> or ſome credible Perſon who knows the value thereof, may from time to time certifie the ſame, by ſome known Attorney to the Commiſſioners, who may be impowred to abate what the King thinks fit in eaſe and favour to his Subjects; as for inſtance: If the Eſtate be 200 <hi>l. per Annum,</hi> where the <hi>pr<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>fine</hi> is 20 <hi>l.</hi> the Commiſſioners may abate 14, or 15 <hi>l.</hi> thereof, more or leſs, as the King thinks fit; and ſo proportionably for Eſtates of greater or leſſer Values, and certifie the A<g ref="char:EOLhyphen"/>batement made <hi>per Mandatum Dom. Regis,</hi> that the Subject may acknowledge the King's Bounty; and the Commiſ<g ref="char:EOLhyphen"/>ſioners may be enjoyned to Regiſter all Proofs whereon they ground their Compoſitions: And the general Re<g ref="char:EOLhyphen"/>giſtry may be Methodically and Alphabetically digeſted by Counties, and lye open for any body at ſeaſonable times to inſpect <hi>gratis,</hi> that in caſe any Fraud ſhould afterward appear, the King may know on whom to charge it.</p>
+               <p>That Perſons aggrieved by Officers and Attorneys un<g ref="char:EOLhyphen"/>due practices ſeldom ſeek Redreſs,<note place="margin">
+                     <hi>12</hi> Abuſe.</note> but find the Reme<g ref="char:EOLhyphen"/>dy worſe than the Diſeaſe, by reaſon the Kings Attor<g ref="char:EOLhyphen"/>ney and Solicitor Generals practice depends on Offi<g ref="char:EOLhyphen"/>cers, Attorneys and Sollicitors bringing them Clients, and the Judges take Fees in Suits, which increaſe as Proceed<g ref="char:EOLhyphen"/>ings multiply; and large Sums of Money for Offices and New-years-Gifts, which influences them to favour Offi<g ref="char:EOLhyphen"/>cers, Attorneys, and Solicitors, becauſe the Judge moſt favourable, is ſure of moſt Fees.</p>
+               <p>That the Attorney and Solicitor-General may have ſuch Salaries as the Judges have to acquit their private Practice,<note place="margin">Remedy.</note> and addict themſelves to popular Actions, Informations, and Pleas of the Crown; and that the King diſpoſe of all Offices as propoſed, and take the Duties ariſing upon Pro<g ref="char:EOLhyphen"/>ceedings in Law and Equity into his own hands; that the Judges who are to correct Officers, Attorneys, and Solici<g ref="char:EOLhyphen"/>tors may be intereſted to ſerve the Publick. The Law, to avoid partiality provides, 8 <hi>Rich.</hi> 2. <hi>cap.</hi> 2. 23 <hi>Hen.</hi> 8. <hi>cap.</hi> 24. That no Man of Law ſhall be Judge of. Aſſize where born; and undoubtedly the Statutes, 18 &amp; 20 <hi>Edw.</hi> 3. were intended for that purpoſe.</p>
+               <p>Whereas ſome thouſand Families are ruined by Attor<g ref="char:EOLhyphen"/>neys and Sollicitors unreaſonable Bills of Coſt,<note place="margin">
+                     <hi>13</hi> Abuſe.</note> and Officers Exactions.</p>
+               <p>That the Statute 3 <hi>Jacob.</hi> 1. <hi>cap.</hi> 7. and other Laws a<g ref="char:EOLhyphen"/>gainſt Extortion be put in Execution,<note place="margin">Remedy.</note> and a Table of the juſt Fees of every Officer be duly hung up in the Treaſury of every Court and Office.</p>
+               <p>Now whereas the Adminiſtration of Juſtice depends on the right Conſtruction and Execution of the Laws in being; and the Lord Chief Juſtice <hi>Coke</hi> ſaith,<note place="margin">
+                     <hi>Cok. Inſt.</hi> 1 part, fol. 234.</note> That Juſtice will never be adminiſtred, whereby Religion, Liberty and Property will be invaded, unleſs Officers come to their places as the Law requireth. And where<g ref="char:EOLhyphen"/>as to avoid partiality, it's provided by the Statute of 8 <hi>Rich.</hi> 2. <hi>cap.</hi> 2 and 33 <hi>Hen.</hi> 8. <hi>cap.</hi> 24. That no Man of Law ſhall be Judge of Aſſize where born; and where<g ref="char:EOLhyphen"/>as the ſaid Laws of 18 and 20 <hi>Edw.</hi> 3. 12 <hi>Rich.</hi> 2. <hi>c.</hi> 2. and 5 and 6 <hi>Edw.</hi> 6. <hi>cap.</hi> 16. were made for the due and impartial Execution of Juſtice; and whereas the Statute of 27 <hi>Hen.</hi> 8. <hi>cap.</hi> 24. reſtored divers ancient Authorities and Prerogatives of Juſtice to the Crown, which were ſevered and taken away by expreſs Grants, and gave no Compenſation to the Grantees, becauſe their Eſtates therein, were to the great detriment and diminution of the Royal Eſtate, and great delay of Juſtice. And whereas the Grievances aforeſaid, may be redreſſed by a due Execution of the Laws in force, that are not Re<g ref="char:EOLhyphen"/>pealed, its to be hoped the Parliament will adviſe and
+<pb n="4" facs="tcp:135392:3" rendition="simple:additions"/>counſel his Majeſty to diſpoſe of Offices, as aforeſaid, and take away ſuch Fees and Perquiſites from Miniſters as im<g ref="char:EOLhyphen"/>pede and hinder a right and due Adminiſtration of Ju<g ref="char:EOLhyphen"/>ſtice, and diminiſh the Ancient Revenues of the Crown.</p>
+            </div>
+            <div type="reports">
+               <head>Opinions and Reports of Councel, and others, in the Reign of King <hi>Charles</hi> the Second, in behalf of Mr. <hi>Brunskell.</hi>
+               </head>
+               <p>Attorney-General <hi>North</hi>'s Opinion, in <hi>October,</hi> 1674.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <p>
+                              <hi>THat the ſmall Fines and Amerciaments in all Courts, are wholly neglected, which if carefully looked after, will be of conſiderable value: And the ſaid</hi> Brunskell, <hi>if His Majeſty pleaſe to favour him, deſerveth an Imployment therein, for ſo uſeful a Diſcovery.</hi>
+                           </p>
+                           <closer>
+                              <signed>Fr. North.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Upon his Retraction, being referr'd to Sir <hi>Charles Har<g ref="char:EOLhyphen"/>board,</hi> he reported:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <p>
+                              <hi>THat all the Fines are agreed to be due to the King.</hi>
+                           </p>
+                           <closer>
+                              <signed>Ch. Harboard.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Upon the Officers denying the Abuſes to be true, the ſtate thereof was referr'd to the Examination of Sir <hi>William Jones,</hi> who reported:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <p>
+                              <hi>THat Many of the Abuſes are true, and fit to be remedied; and all, or the greateſt part may be redreſſed by the Judges Orders in the reſpective Courts. And the Diſcoverer deſerveth all due Encouragement for the Service he hath al<g ref="char:EOLhyphen"/>ready done, and may for the future do, in diſcovering theſe and the like Abuſes; alſo the aſſurance of a liberal Re<g ref="char:EOLhyphen"/>ward.</hi>
+                           </p>
+                           <closer>
+                              <signed>Will. Jones.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Afterward the ſame ſtate of Abuſes was referred in like manner to Sir <hi>Robert Sawyer.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <p>
+                              <hi>THat great Abuſes are practiſed by Clerks; and it's fit ſuch Rules be made, that His Majeſty may not be inju<g ref="char:EOLhyphen"/>red; and the Orders ſeem reaſonable in the main to remedy them.</hi>
+                           </p>
+                           <closer>
+                              <signed>R. Sawyer.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Upon a draught of a Warrant for a Pattent intended to be granted to the ſaid <hi>Brunskel,</hi> of the Green-wax Fines, he obtained the Opinion of the Perſons as follows:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <p>
+                              <hi>THat a Patent purſuance to this Warrant is Legal, in re<g ref="char:EOLhyphen"/>gard all the Money is actually brought in by the uſual and legal Proceſs of the reſpective Courts: So that the Sub<g ref="char:EOLhyphen"/>ject is not vexed with any new way of Collecting or Proceſs, but things run in their uſual Channel.</hi>
+                           </p>
+                           <closer>
+                              <signed>Jo. Simpſon. Edm. Saunders. Tho. Ramond.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <p>I <hi>Am of Opinion, the King may legally grant what is premi<g ref="char:EOLhyphen"/>ſed; and ſuch Grant in good hands, will be helpful to the Adminiſtration of Juſtice.</hi>
+                           </p>
+                           <closer>
+                              <signed>Will. Williams.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <head>The Earl of <hi>Angleſey</hi>'s Opinion.</head>
+                           <p>I <hi>Know very well, that this Grant will be for the eaſe and benefit of the poorer ſort of Subjects, who are now miſera<g ref="char:EOLhyphen"/>bly oppreſſed by the</hi> Exchecquer<hi>-Officers; which makes them ſo oppoſite (againſt their Oaths) to the King's making the juſt and merciful advantage of this his ancient Revenue of</hi> Green-wax.</p>
+                           <closer>
+                              <signed>Angleſey.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Maſter of the <hi>Rolls</hi>'s Certificate, upon the Lord Keeper <hi>North</hi>'s miſrepreſenting the ſaid <hi>Brunskell.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <p>I <hi>Know Mr.</hi> Brunskel <hi>to be a fit Perſon to be imployed, for he was one of my Clerks in the <hi>Rolls</hi> Chappel; which is an Office of great Trust, and did honeſtly demean himſelf therein.</hi>
+                           </p>
+                           <closer>
+                              <signed>Har. Grimſtone.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <head>Opinions about <hi>Preſines</hi> upon Alienation.</head>
+                           <p>
+                              <hi>WHere the certainty appeareth what His Majeſty's Duty is, the Commiſſioners cannot abate thereof, having no ſuch Power by their Commiſſion. And in Caſe the Method obſerved by former Commiſſioners, be found greatly to His Majeſties prejudice, others more beneficial may be Law be preſcribed.</hi>
+                           </p>
+                           <closer>
+                              <signed>R. Sawyers</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <p>
+                              <hi>IF His Majeſties Duty be certain in itſelf, I cannot ſee how the Commiſſioners can leſſen or abate it, without an Au<g ref="char:EOLhyphen"/>thority from the King: Every Perſon intruſted in His Maje<g ref="char:EOLhyphen"/>ſties Revenue, is anſwerable to His Majeſty for the Execution of his Office, and by Suit in the Attorney-General's Name, being convicted of any Fraud, or wilful breach of Trust to His Majeſties damage, is liable by Law to make the ſame good.</hi>
+                           </p>
+                           <closer>
+                              <signed>Edw. Ward.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>King <hi>Charles</hi> the Second upon the aforeſaid Opinions, which are, That he might legally grant the <hi>Green-Wax</hi> Fines, did <hi>Anno</hi> 30. of his Reign, Grant one Moiety thereof to the ſaid <hi>Brunskell</hi> and others, at and under the yearly Rent of 250 <hi>l.</hi> for 31 Years: But the Lord Chief Juſtice <hi>North</hi> prevailed to have a Clauſe inſerted, That it might be lawful for the King in Councel to re<g ref="char:EOLhyphen"/>voke the ſame upon due proof of any Inconvenience to the Crown thereby: And without any proof thereof, the ſaid Grant was ſoon after repreſented illegal, and revoked: Now 'tis adjudged legal, and granted to the Right Honourable <hi>William</hi> Lord <hi>Pawlet.</hi>
+               </p>
+               <p>King <hi>Charles</hi> the Second upon the Revocation of the ſaid Grant, gave the ſaid <hi>Brunskell</hi> a Commiſſioners place in the <hi>Alienation Office,</hi> and granted to him the <hi>Office of Surveyor of the Green-Wax Fines,</hi> but the Lord Chief Ju<g ref="char:EOLhyphen"/>ſtice <hi>North</hi> and Officers, would not ſuffer any Rules or Orders to be ſetled to enable the ſaid <hi>Brunskel</hi> duly to execute either of the ſaid Offices, and did cut ſhort and ſtop his Salaries till the King died; and the late King took away both the ſaid Offices from the ſaid <hi>Brunskell.</hi>
+               </p>
+               <p>Upon this happy Revolution, the ſaid <hi>Brunskell</hi> peti<g ref="char:EOLhyphen"/>tioned to be reſtored; and upon Reference of his Peti<g ref="char:EOLhyphen"/>tion, with a State of the ſaid Abuſes to the ſaid Barons of their Majeſties <hi>Exchequer,</hi> they Reported ſeverally, That the ſaid <hi>Brunskell</hi> was a Perſon well qualified. And the Right Honourable Sir <hi>Robert Atkyns,</hi> more particu<g ref="char:EOLhyphen"/>larly Reported, who was one of the Judges in the <hi>Com<g ref="char:EOLhyphen"/>mon Pleas</hi> at the time of the ſaid <hi>Brunskill</hi>'s Diſcovery, and at every Hearing before his Majeſty in the <hi>Treaſury,</hi> Countenanced it while he continued Judge in the late Reign of the ſaid King <hi>Charles</hi> the Second.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <head>Sir <hi>R<gap reason="illegible: missing" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>bert Atkyns</hi>'s Report.</head>
+                           <p>I <hi>Find the Petitioner had formerly a Grant of the Office of Surveyor of the Green-Wax, and hath taken pains to inform himſelf in the Abuſes of that Revenue, and hath good Experience in the managing of that and the other Office mentioned in his Petition, and is every way qualified for them.</hi>
+                           </p>
+                           <closer>
+                              <dateline>
+                                 <date>24 May 1689.</date>
+                              </dateline>
+                              <signed>Ro. Atkyns.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <head>The Contents of a Certificate of Fifty Members of the late Parliament, upon peruſal of Mr. <hi>Brunskell</hi>'s Caſe.</head>
+                           <p>
+                              <hi>THat as the ſaid</hi> Brunskell <hi>was placed in the ſaid Of<g ref="char:EOLhyphen"/>
+                                 <gap reason="illegible: faint" extent="5 letters">
+                                    <desc>•••••</desc>
+                                 </gap> upon Merit, and removed by the late King, he ought in Juſtice to be reſtored, as an Object of his Maje<g ref="char:EOLhyphen"/>ſties Bounty, and fitly qualified for the ſaid Offices; and that an Application to Parliament is improper, unleſs he meet with Diſappointments.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="report">
+                           <head>The Duke of <hi>Bolton</hi>'s Certificate.</head>
+                           <p>
+                              <hi>THeſe are to Certifie the Right Honourable the Lords Com<g ref="char:EOLhyphen"/>miſſioners of their Majeſties Treaſury, That the King hath graciouſly promiſed me to reſtore Mr.</hi> Brunskell <hi>to his Office of Surveyor of the Green-Wax Fines, and to his Com<g ref="char:EOLhyphen"/>miſſioners Place in the Alinaation Office.</hi>
+                           </p>
+                           <closer>
+                              <dateline>
+                                 <date>30 April 1689.</date>
+                              </dateline>
+                              <signed>Bolton.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The aforeſaid Abuſes, Reports, Opinions, and Certifi<g ref="char:EOLhyphen"/>cates were duly preſented to the then Lords Commiſſio<g ref="char:EOLhyphen"/>ners of their Majeſties Treaſury, and many Petitions with the ſame annexed, for a Hearing, yet obtained it not till about the Twenty ninth of <hi>Septemb.</hi> laſt, when both Offices were diſpoſed of: And the preſent Lords Commiſ<g ref="char:EOLhyphen"/>ſioners, aſſiſted with the Right Honourable Sir <hi>Robert Atkyns,</hi> and their Majeſties Attorney General, did think fit to have the ſaid <hi>Brunskell</hi> make his Application to Par<g ref="char:EOLhyphen"/>liament, which he hath accordingly done.</p>
+               <p>The ſaid <hi>Brunskell</hi> loſt 300 <hi>l. per Annum,</hi> which he got by his Practice, before he made this Diſcovery in <hi>October</hi> 1674. and had 60 <hi>l. per Annum</hi> in Fee, 500 <hi>l.</hi> in Money, and hath loſt all, and contracted Debts upward of 2800 <hi>l.</hi> by the ill uſage he hath met with in the late Reigns, for making and proſe<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing the Diſcovery how the juſt Rights of the Crown, and the Liberties of the People, are inva<g ref="char:EOLhyphen"/>ded by Judges and Officers undue Practices, in diſcharge of his Oath, which obliged him to maintain and defend the Kings and Peoples juſt Rights, and diſcover what he knows to be done or ſuffered, to the prejudice of ei<g ref="char:EOLhyphen"/>ther.</p>
+               <p>
+                  <hi>Therefore the ſaid</hi> Brunskell <hi>prays this Honourable Houſe to Redreſs the Grievances, and Relieve him as to your Honours VViſdoms may ſeen meet and juſt, That your Petitioners Suffering may not make good Men afraid to diſcharge Oath and Duty, and ill Perſons in Office worſe.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
